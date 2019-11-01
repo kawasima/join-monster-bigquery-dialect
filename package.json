@@ -1,0 +1,15 @@
+{
+  "name": "join-monster-bigquery-dialect",
+  "version": "0.1.0",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kawasima/join-monster-bigquery-dialect.git"
+  },
+  "author": "kawasima",
+  "license": "MIT",
+  "dependencies": {
+    "graphql": "^14.5.8",
+    "join-monster": "2.1.0"
+  }
+}
